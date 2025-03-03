@@ -1,43 +1,90 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>About Myself</title>
-        <style type="text/css">
-            body {
-                font-family: "JetBrains Mono", Courier, monospace;
-            }
-        </style>
-    </head>
-    <body>
-        <h1>Hi, I'm Anav Chand</h1>
-        <p>
-            I am an aspiring DevOps engineer, self-taught web developer,
-            second-year software engineering student, and award-winning peer
-            mentor at the
-            <a href="https://usp.ac.fj">University of the South Pacific</a>.
-        </p>
+<html lang="en">
 
-        <hr />
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="A simple webpage for IS221 Lab 1" />
+    <title>About Me</title>
 
-        <h2>My Courses</h2>
-        <ol>
-            <li>IS221 - Web Application Development</li>
-            <li>IS222 - Database Management Systems</li>
-            <li>CS211 - Computer Architecture</li>
-            <li>CS230 - Requirements Engineering</li>
-        </ol>
+    <!-- Internal CSS -->
+    <style type="text/css">
+        body {
+            font-family: "JetBrains Mono", Courier, monospace;
+        }
+    </style>
 
-        <h2>My Websites</h2>
-        <ul>
-            <li><a href="https://www.anav.dev">My Personal Website</a></li>
-            <li><a href="https://links.anav.dev">My Links Website</a></li>
-            <li><a href="https://quotes.anav.dev">My Quotes Website</a></li>
-            <li><a href="https://www.cs000.dev">My Open Source Course</a></li>
-        </ul>
+    <!-- External CSS -->
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+</head>
 
-        <h2>My Hobbies</h2>
+<body>
+    <h1>Hi, I'm Anav Chand</h1>
 
-        <img src="images/chess.jpg" alt="Chess" />
-        <img src="images/games.jpg" alt="Chess" />
-    </body>
+    <!-- Inline CSS -->
+    <p style="font-size: 25px; text-align: center;">
+        I am an aspiring DevOps engineer, <em>self-taught web developer</em>, second-year software engineering student,
+        and <strong>award-winning peer mentor</strong> at the
+        <a href="https://usp.ac.fj">University of the South Pacific</a>.
+    </p>
+
+    <h2>My Courses</h2>
+
+    <ol>
+        <li>IS221 - Web Application Development</li>
+        <li>IS222 - Database Management Systems</li>
+        <li>CS211 - Computer Architecture</li>
+        <li>CS230 - Requirements Engineering</li>
+    </ol>
+
+    <h2>My Websites</h2>
+
+    <ul>
+        <li>
+            <a target="_blank" href="https://www.anav.dev">My Personal Website</a>
+        </li>
+        <li>
+            <a target="_blank" href="https://links.anav.dev">My Links Website</a>
+        </li>
+        <li>
+            <a target="_blank" href="https://quotes.anav.dev">My Quotes Website</a>
+        </li>
+        <li>
+            <a target="_blank" href="https://www.cs000.dev">My Open Source Course</a>
+        </li>
+    </ul>
+
+    <h2>My Hobbies</h2>
+
+    <figure>
+        <img src="images/chess.jpg" alt="Chess" title="Chess" height="300" width="300" />
+        <figcaption>Chess</figcaption>
+    </figure>
+
+    <figure>
+        <img src="images/games.jpg" alt="Chess" title="Chess" height="300" width="300" />
+        <figcaption>Games</figcaption>
+    </figure>
+
+    <h2>My Projects</h2>
+
+    <figure>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/pXo4qvzqR3k?si=Oz6fh6eYaxruCHVo"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Links Dashboard</figcaption>
+    </figure>
+
+    <figure>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ac_zoq3HYt0?si=0AnNaZHEyepryjen"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <figcaption>Kloc CLI</figcaption>
+    </figure>
+</body>
+
 </html>
