@@ -7,15 +7,21 @@
         <style>
             table {
                 border: 1px solid #1f2937;
+                /* border: 1px solid red; */
                 border-collapse: collapse;
                 float: left;
             }
 
             th,
             td {
-                border: 1px solid #1f2937;
                 padding: 10px;
+                border: 1px solid #1f2937;
+                /* border-bottom: 1px solid #1f2937; */
             }
+
+            /* tbody tr:last-of-type td {
+                border-bottom: none;
+            } */
 
             tbody:hover tr {
                 opacity: 0.5;
@@ -45,27 +51,23 @@
         dignissimos culpa quia porro est placeat sunt vitae suscipit, optio dolor, commodi ducimus enim architecto neque repellat quisquam? Perspiciatis nisi vel dolor minus inventore commodi sed unde obcaecati, harum ex quasi autem praesentium eligendi error debitis est eaque natus asperiores velit architecto reprehenderit? Quidem iste tenetur, id hic dignissimos perspiciatis atque corrupti error molestiae magnam fuga sit enim illum explicabo ratione tempora laboriosam rem consectetur
         consequuntur modi sequi nobis nihil voluptatem. Ut, nesciunt corporis!
         <table>
-            <caption>
+            <caption align="top">
                 KOKOtree Pet Medicine Products & Services
             </caption>
             <colgroup>
-                <col style="background-color: #a7f3d0" />
-                <col style="background-color: #a7f3d0" />
-                <col style="background-color: #d8b4fe" />
-                <col style="background-color: #d8b4fe" />
-                <col style="background-color: #d8b4fe" />
-                <col style="background-color: #d8b4fe" />
-                <col style="background-color: #d8b4fe" />
+                <col span="2" style="background-color: #6ee7b7" />
+                <col span="2" style="background-color: #a5b4fc" />
+                <col span="3" style="background-color: #fda4af" />
             </colgroup>
             <thead>
                 <tr>
-                    <td>Item #</td>
-                    <td>Product or Service</td>
-                    <td>Price (ea.)</td>
-                    <td>Retail Price (Case)</td>
-                    <td>Case Discount</td>
-                    <td>2+ Case Price</td>
-                    <td>12+ Case Discount</td>
+                    <th scope="col">Item #</th>
+                    <th scope="col">Product or Service</th>
+                    <th scope="col">Price (ea.)</th>
+                    <th scope="col">Retail Price (Case)</th>
+                    <th scope="col">Case Discount</th>
+                    <th scope="col">2+ Case Price</th>
+                    <th scope="col">12+ Case Discount</th>
                 </tr>
             </thead>
             <tbody>
