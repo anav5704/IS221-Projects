@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>HTML Output For ASP.net Form</title>
+    </head>
+    <body>
+        <form method="post" action="./Register.aspx" id="form1">
+            <h2>HML Code</h2>
+
+            <div id="Panel1">
+                Name:<input name="txtName" type="text" id="txtName" />
+
+                Student ID:<input name="txtStudentID" type="text" id="txtStudentID" />
+
+                Password:<input name="txtPassword" type="password" id="txtPassword" />
+
+                Programme:<select name="ddlProgram" id="ddlProgram">
+                    <option value="BSc">BSc</option>
+                    <option value="BA">BA</option>
+                    <option value="BComm">BComm</option>
+                    <option value="BEng">BEng</option>
+                </select>
+
+                Majors:
+                <table id="cblMajors">
+                    <tr>
+                        <td>
+                            <input id="cblMajors_0" type="checkbox" name="cblMajors$0" value="Computing Science" />
+                            <label for="cblMajors_0">Computing Science</label>
+                        </td>
+                        <td>
+                            <input id="cblMajors_3" type="checkbox" name="cblMajors$3" value="Economics" />
+                            <label for="cblMajors_3">Economics</label>
+                        </td>
+                        <td>
+                            <input id="cblMajors_5" type="checkbox" name="cblMajors$5" value="Electrical Engineering" />
+                            <label for="cblMajors_5">Electrical Engineering</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input id="cblMajors_1" type="checkbox" name="cblMajors$1" value=" Information Systems" />
+                            <label for="cblMajors_1"> Information Systems</label>
+                        </td>
+                        <td>
+                            <input id="cblMajors_4" type="checkbox" name="cblMajors$4" value="Mathematics" />
+                            <label for="cblMajors_4">Mathematics</label>
+                        </td>
+                        <td>
+                            <input id="cblMajors_6" type="checkbox" name="cblMajors$6" value="Management Studies" />
+                            <label for="cblMajors_6">Management Studies</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input id="cblMajors_2" type="checkbox" name="cblMajors$2" value="Accounting" />
+                            <label for="cblMajors_2">Accounting</label>
+                        </td>
+                    </tr>
+                </table>
+
+                <input type="submit" name="btnRegister" value="Register Me" id="btnRegister" />
+
+                <span id="lblVerify"></span>
+            </div>
+        </form>
+    </body>
+</html>
