@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anavk\\code\\IS221-Projects\\database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|c:\\users\\anavk\\code\\is221-projects\\database\\master-pages\\studentlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|solutionrelative:master-pages\\studentlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|c:\\users\\anavk\\code\\is221-projects\\database\\master-pages\\aboutme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|solutionrelative:master-pages\\aboutme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 297,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "aboutme.aspx",
+              "DocumentMoniker": "C:\\Users\\anavk\\code\\IS221-Projects\\database\\master-pages\\aboutme.aspx",
+              "RelativeDocumentMoniker": "master-pages\\aboutme.aspx",
+              "ToolTip": "C:\\Users\\anavk\\code\\IS221-Projects\\database\\master-pages\\aboutme.aspx",
+              "RelativeToolTip": "master-pages\\aboutme.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-22T04:27:48.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentList.aspx",
+              "DocumentMoniker": "C:\\Users\\anavk\\code\\IS221-Projects\\database\\master-pages\\StudentList.aspx",
+              "RelativeDocumentMoniker": "master-pages\\StudentList.aspx",
+              "ToolTip": "C:\\Users\\anavk\\code\\IS221-Projects\\database\\master-pages\\StudentList.aspx",
+              "RelativeToolTip": "master-pages\\StudentList.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-22T04:19:57.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 103,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
