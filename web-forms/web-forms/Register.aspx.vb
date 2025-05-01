@@ -24,4 +24,12 @@
         Next
         lblVerify.Text &= "</ul>"
     End Sub
+
+    Protected Sub txtPassword_TextChanged(sender As Object, e As EventArgs)
+
+    End Sub
+
+    Protected Sub txtPassword_TextChanged1(sender As Object, e As EventArgs)
+
+    End Sub
 End Class

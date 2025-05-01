@@ -18,7 +18,7 @@
             Student ID:<asp:TextBox ID="txtStudentID" runat="server"></asp:TextBox>
             <br />
             <br />
-            Password:<asp:TextBox ID="txtPassword" runat="server"></asp:TextBox>
+            Password:<asp:TextBox ID="txtPassword" runat="server" TextMode="Password"></asp:TextBox>
             <br />
             <br />
             Programme:<asp:DropDownList ID="ddlProgram" runat="server">

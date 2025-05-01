@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\anavk\\code\\IS221-Projects\\database\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|c:\\users\\anavk\\code\\is221-projects\\database\\master-pages\\studentlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|solutionrelative:master-pages\\studentlist.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|c:\\users\\anavk\\code\\is221-projects\\database\\master-pages\\aboutme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|solutionrelative:master-pages\\aboutme.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|c:\\users\\anavk\\code\\is221-projects\\database\\master-pages\\masterpages\\university.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|solutionrelative:master-pages\\masterpages\\university.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 297,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "aboutme.aspx",
               "DocumentMoniker": "C:\\Users\\anavk\\code\\IS221-Projects\\database\\master-pages\\aboutme.aspx",
               "RelativeDocumentMoniker": "master-pages\\aboutme.aspx",
@@ -34,20 +30,24 @@
               "RelativeToolTip": "master-pages\\aboutme.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-22T04:27:48.857Z",
+              "WhenOpened": "2025-04-24T08:48:57.269Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentList.aspx",
-              "DocumentMoniker": "C:\\Users\\anavk\\code\\IS221-Projects\\database\\master-pages\\StudentList.aspx",
-              "RelativeDocumentMoniker": "master-pages\\StudentList.aspx",
-              "ToolTip": "C:\\Users\\anavk\\code\\IS221-Projects\\database\\master-pages\\StudentList.aspx",
-              "RelativeToolTip": "master-pages\\StudentList.aspx",
+              "DocumentIndex": 1,
+              "Title": "University.Master",
+              "DocumentMoniker": "C:\\Users\\anavk\\code\\IS221-Projects\\database\\master-pages\\MasterPages\\University.Master",
+              "RelativeDocumentMoniker": "master-pages\\MasterPages\\University.Master",
+              "ToolTip": "C:\\Users\\anavk\\code\\IS221-Projects\\database\\master-pages\\MasterPages\\University.Master",
+              "RelativeToolTip": "master-pages\\MasterPages\\University.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-22T04:19:57.731Z",
+              "WhenOpened": "2025-04-24T06:35:07.778Z",
               "EditorCaption": ""
             }
           ]

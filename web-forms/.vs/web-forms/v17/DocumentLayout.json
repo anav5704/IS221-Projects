@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7AD7893E-FB52-48F5-A887-3D571F1570AF}|web-forms\\web-forms.vbproj|c:\\users\\anavk\\code\\is221-projects\\web-forms\\web-forms\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{7AD7893E-FB52-48F5-A887-3D571F1570AF}|web-forms\\web-forms.vbproj|solutionrelative:web-forms\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD7893E-FB52-48F5-A887-3D571F1570AF}|web-forms\\web-forms.vbproj|C:\\Users\\anavk\\code\\IS221-Projects\\web-forms\\web-forms\\register.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7AD7893E-FB52-48F5-A887-3D571F1570AF}|web-forms\\web-forms.vbproj|solutionrelative:web-forms\\register.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 297,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\anavk\\code\\IS221-Projects\\web-forms\\web-forms\\Register.aspx.vb",
+              "RelativeDocumentMoniker": "web-forms\\Register.aspx.vb",
+              "ToolTip": "C:\\Users\\anavk\\code\\IS221-Projects\\web-forms\\web-forms\\Register.aspx.vb",
+              "RelativeToolTip": "web-forms\\Register.aspx.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-17T05:51:16.291Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,9 +45,9 @@
               "RelativeDocumentMoniker": "web-forms\\Register.aspx",
               "ToolTip": "C:\\Users\\anavk\\code\\IS221-Projects\\web-forms\\web-forms\\Register.aspx",
               "RelativeToolTip": "web-forms\\Register.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-01T03:40:28.014Z",
+              "WhenOpened": "2025-04-16T22:14:26.213Z",
               "EditorCaption": ""
             }
           ]
