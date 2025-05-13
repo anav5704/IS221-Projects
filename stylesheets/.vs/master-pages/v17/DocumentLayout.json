@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\anavk\\code\\IS221-Projects\\stylesheets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|c:\\users\\anavk\\code\\is221-projects\\stylesheets\\master-pages\\styles\\default.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|solutionrelative:master-pages\\styles\\default.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|c:\\users\\anavk\\code\\is221-projects\\stylesheets\\master-pages\\styles\\print.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|solutionrelative:master-pages\\styles\\print.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|c:\\users\\anavk\\code\\is221-projects\\stylesheets\\master-pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|c:\\users\\anavk\\code\\is221-projects\\stylesheets\\master-pages\\masterpages\\university.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|solutionrelative:master-pages\\masterpages\\university.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|C:\\Users\\anavk\\code\\IS221-Projects\\stylesheets\\master-pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|solutionrelative:master-pages\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|c:\\users\\anavk\\code\\is221-projects\\stylesheets\\master-pages\\styles\\default.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C0E7D0A1-0507-48F4-89F0-53CA12A90F96}|master-pages\\master-pages.vbproj|solutionrelative:master-pages\\styles\\default.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 297,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +34,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "print.css",
+              "DocumentMoniker": "C:\\Users\\anavk\\code\\IS221-Projects\\stylesheets\\master-pages\\styles\\print.css",
+              "RelativeDocumentMoniker": "master-pages\\styles\\print.css",
+              "ToolTip": "C:\\Users\\anavk\\code\\IS221-Projects\\stylesheets\\master-pages\\styles\\print.css",
+              "RelativeToolTip": "master-pages\\styles\\print.css",
+              "ViewState": "AgIAAB8AAACABd5nBd4dwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-13T02:41:54.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "University.Master",
+              "DocumentMoniker": "C:\\Users\\anavk\\code\\IS221-Projects\\stylesheets\\master-pages\\MasterPages\\University.Master",
+              "RelativeDocumentMoniker": "master-pages\\MasterPages\\University.Master",
+              "ToolTip": "C:\\Users\\anavk\\code\\IS221-Projects\\stylesheets\\master-pages\\MasterPages\\University.Master",
+              "RelativeToolTip": "master-pages\\MasterPages\\University.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-13T02:40:55.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Register.aspx",
               "DocumentMoniker": "C:\\Users\\anavk\\code\\IS221-Projects\\stylesheets\\master-pages\\Register.aspx",
               "RelativeDocumentMoniker": "master-pages\\Register.aspx",
@@ -39,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "default.css",
               "DocumentMoniker": "C:\\Users\\anavk\\code\\IS221-Projects\\stylesheets\\master-pages\\styles\\default.css",
               "RelativeDocumentMoniker": "master-pages\\styles\\default.css",

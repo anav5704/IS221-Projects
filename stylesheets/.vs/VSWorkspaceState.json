@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\master-pages"
+    "\\master-pages",
+    "\\master-pages\\styles"
   ],
-  "SelectedNode": "\\master-pages\\Register.aspx",
+  "SelectedNode": "\\master-pages\\styles\\default.css",
   "PreviewInSolutionExplorer": false
 }
